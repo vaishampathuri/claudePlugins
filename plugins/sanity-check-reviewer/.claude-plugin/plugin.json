@@ -1,0 +1,6 @@
+{
+  "name": "sanity-check-reviewer",
+  "version": "1.0.0",
+  "description": "Specialized agent for performing rigorous security and performance audits on newly written or modified code before creating PRs.",
+  "commands": "./commands/sanity-check.md"
+}

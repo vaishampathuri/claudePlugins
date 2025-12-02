@@ -1,0 +1,6 @@
+{
+  "name": "notification-hook",
+  "version": "1.0.0",
+  "description": "Hook that plays a sound notification when Claude sends notifications",
+  "type": "hook"
+}

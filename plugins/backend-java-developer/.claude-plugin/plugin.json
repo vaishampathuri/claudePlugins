@@ -1,0 +1,6 @@
+{
+  "name": "java-developer",
+  "version": "1.0.0",
+  "description": "Specialized agent for generating modern Java Code.",
+  "commands": "./commands/java-expert.md"
+}

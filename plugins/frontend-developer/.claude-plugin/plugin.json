@@ -1,0 +1,6 @@
+{
+  "name": "frontend-developer",
+  "version": "1.0.0",
+  "description": "Specialized agent for generating modern frontend components and scaffolding projects (React, Vue, etc.).",
+  "commands": "./commands/frontend.md"
+}

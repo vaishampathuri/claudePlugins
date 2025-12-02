@@ -1,0 +1,5 @@
+# Configuration file with sensitive credentials
+mcp-config.sh
+
+# Keep the template
+!mcp-config.template.sh

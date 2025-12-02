@@ -1,0 +1,6 @@
+{
+  "name": "mcp-launcher-wrapper",
+  "version": "1.0.0",
+  "description": "MCP server launcher wrapper scripts for managing and monitoring MCP servers in the background with daemon support.",
+  "commands": "./commands/mcp-manager.md"
+}
